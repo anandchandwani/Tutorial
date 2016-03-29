@@ -1,0 +1,77 @@
+.container {
+  height: 200px;
+  background: #ff0000; }
+  .container h1 {
+    color: green; }
+
+html {
+  background: gray; }
+
+h2 > span {
+  font: 26px Monaco, MonoSpace;
+  height: 100px;
+  position: absolute;
+  width: 20px;
+  left: 200px;
+  top: 350px;
+  transform-origin: bottom center; }
+
+.char1 {
+  transform: rotate(20deg); }
+
+.char2 {
+  transform: rotate(40deg); }
+
+.char3 {
+  transform: rotate(60deg); }
+
+.char4 {
+  transform: rotate(80deg); }
+
+.char5 {
+  transform: rotate(100deg); }
+
+.char6 {
+  transform: rotate(120deg); }
+
+.char7 {
+  transform: rotate(140deg); }
+
+.char8 {
+  transform: rotate(160deg); }
+
+.char9 {
+  transform: rotate(180deg); }
+
+.char10 {
+  transform: rotate(200deg); }
+
+.char11 {
+  transform: rotate(220deg); }
+
+.char12 {
+  transform: rotate(240deg); }
+
+.char13 {
+  transform: rotate(260deg); }
+
+.char14 {
+  transform: rotate(280deg); }
+
+.char15 {
+  transform: rotate(300deg); }
+
+.char16 {
+  transform: rotate(320deg); }
+
+.char17 {
+  transform: rotate(340deg); }
+
+.char18 {
+  transform: rotate(360deg); }
+
+.char19 {
+  transform: rotate(380deg); }
+
+.char20 {
+  transform: rotate(400deg); }

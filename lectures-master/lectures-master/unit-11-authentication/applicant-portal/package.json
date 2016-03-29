@@ -1,0 +1,51 @@
+{
+  "name": "app-gui",
+  "version": "2.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "engines": {
+    "node": "4.2.0"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "body-parser": "^1.13.3",
+    "chartist": "^0.9.4",
+    "config": "^1.15.0",
+    "cookie-parser": "^1.3.5",
+    "events": "^1.0.2",
+    "express": "^4.13.3",
+    "flux": "^2.1.1",
+    "googleapis": "^2.1.3",
+    "lodash": "^3.10.1",
+    "moment-timezone": "0.4.0",
+    "mongoose": "^4.1.3",
+    "react": "^0.13.3",
+    "react-bootstrap-datetimepicker": "file:react-bootstrap-datetimepicker",
+    "react-chartist": "^0.8.0",
+    "react-router": "^0.13.3",
+    "request": "^2.62.0"
+  },
+  "devDependencies": {
+    "babelify": "^6.2.0",
+    "browserify": "^11.0.1",
+    "casperjs": "^1.1.0-beta3",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "uglifyify": "^3.0.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.3.1"
+  },
+  "scripts": {
+    "test": "rm nohup.out; npm run seed && ./runcasper test/casper/index.js || cat nohup.out",
+    "start": "node server.js",
+    "start-dev": "export NODE_ENV=test; ./node_modules/.bin/gulp",
+    "mock": "export NODE_ENV=mock; ./node_modules/.bin/gulp",
+    "seed": "export NODE_ENV=test; node util/seedfile.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

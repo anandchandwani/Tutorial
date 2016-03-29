@@ -1,0 +1,69 @@
+# Intro to Front End
+## Aka... What the front?
+![](./../lego.jpg)
+
+---
+
+# History of the Web
+
+- 1993
+- Just HTML
+- things have grown
+- <http://info.cern.ch/hypertext/WWW/TheProject.html>
+
+---
+
+# HTML
+## A way of writing words that a web browser can read.
+
+- javascript console reads javascript
+- web browser reads html
+- made up of tags
+- these tags can have **attributes**
+
+---
+
+# But its still ugly...
+![](./../rich.jpg)
+
+---
+
+# CSS
+
+![](./../luxury.jpg)
+## cascading style sheets.
+
+A way of saying how elements on the page are styled
+- dimensions
+- borders
+- position
+- color
+
+
+---
+
+#Internal vs External
+
+### this styling code can be **internal**, we say how things look right there in the element.
+### or **external** we say how it looks in a file devoted to saying how things look
+
+---
+
+# Javascript
+
+### What makes a page dynamic
+
+### html and css delivered once and theyre done
+### javascript runs and can respond to **events**
+
+---
+
+# Linking
+![](./../luxury.jpg)
+
+- different assets brought in to the html through **tags**
+- `link` for CSS
+- `script` for javascript
+
+
+

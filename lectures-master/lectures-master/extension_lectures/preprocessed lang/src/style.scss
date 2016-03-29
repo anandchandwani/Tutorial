@@ -1,0 +1,32 @@
+// compile command: sass src/style.scss dest/style.css
+
+$color-red: #ff0000;
+
+.container {
+  height: 100px * 2;
+  background: $color-red;
+  h1 {
+    color: blue;
+  }
+}
+
+
+@import "_partial";
+
+
+
+h2 > span {
+  font: 26px Monaco, MonoSpace;
+  height: 100px;
+  position: absolute;
+  width: 20px;
+  left: 200px;
+  top: 350px;
+  transform-origin: bottom center;
+}
+
+@for $i from 1 through 20 {
+  .char#{$i} {
+    transform: rotate(($i*20)+deg);
+  }
+}

@@ -1,0 +1,38 @@
+<html ng-app="trendyName">
+
+<head>
+  <title>Angular App</title>
+</head>
+
+<body>
+  <div id="content" ng-view></div>
+  <script src="path/to/javascripts.js"></script>
+</body>
+
+</html>
+
+
+
+
+
+<div ng-controller="AppController as appCtrl">
+
+  <form>
+    <input type="text" ng-model="appCtrl.name" />
+
+    <p> {{ appCtrl.name }} </p>
+  </form>
+
+</div>
+
+
+<body ng-app="coolName">
+  <div ng-controller="MessageController as msgCtrl">
+
+    <ul>
+      <li ng-repeat="msg in msgCtrl.data">
+        {{ msg.message }}
+      </li>
+    </ul>
+  </div>
+</body>

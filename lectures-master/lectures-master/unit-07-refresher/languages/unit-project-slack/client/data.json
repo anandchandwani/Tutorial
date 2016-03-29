@@ -1,0 +1,5160 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"1437430471744000\"",
+ "summary": "Codesmith-2",
+ "description": "",
+ "updated": "2015-07-20T22:14:31.744Z",
+ "timeZone": "America/Los_Angeles",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIC0oeXd6sYCEAAYAQ==",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"2867753851926000\"",
+   "id": "dkia8qquen81a06o7r0f5k7o1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZGtpYThxcXVlbjgxYTA2bzdyMGY1azdvMW8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-09T01:43:37.000Z",
+   "updated": "2015-06-09T19:08:45.963Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-09T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-09T20:00:00-07:00"
+   },
+   "iCalUID": "dkia8qquen81a06o7r0f5k7o1o@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871040464834000\"",
+   "id": "f3chm43me0au8s2l9nqp9p46cg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZjNjaG00M21lMGF1OHMybDlucXA5cDQ2Y2cgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:37:09.000Z",
+   "updated": "2015-06-28T19:37:12.417Z",
+   "summary": "Welcome",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T08:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T09:00:00-07:00"
+   },
+   "iCalUID": "f3chm43me0au8s2l9nqp9p46cg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871040626120000\"",
+   "id": "26gjtfu20cj9sabbm933bp6mac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjZnanRmdTIwY2o5c2FiYm05MzNicDZtYWMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:38:33.000Z",
+   "updated": "2015-06-28T19:38:33.060Z",
+   "summary": "Icebreakers",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T10:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T11:00:00-07:00"
+   },
+   "iCalUID": "26gjtfu20cj9sabbm933bp6mac@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871041034304000\"",
+   "id": "7tskqqbdesv57qs3f6bhoalbbo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N3Rza3FxYmRlc3Y1N3FzM2Y2YmhvYWxiYm8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:41:54.000Z",
+   "updated": "2015-06-28T19:41:57.152Z",
+   "summary": "Lecture: Pair Programming",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-30T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-30T09:30:00-07:00"
+   },
+   "iCalUID": "7tskqqbdesv57qs3f6bhoalbbo@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871041139936000\"",
+   "id": "lhuqbdsej45mhgh3fc118ogak0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bGh1cWJkc2VqNDVtaGdoM2ZjMTE4b2dhazAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:42:08.000Z",
+   "updated": "2015-06-28T19:42:49.968Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-30T09:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-30T11:00:00-07:00"
+   },
+   "iCalUID": "lhuqbdsej45mhgh3fc118ogak0@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871119179106000\"",
+   "id": "9f4j4aj26pvsl6745sn8r3paa0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OWY0ajRhajI2cHZzbDY3NDVzbjhyM3BhYTAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:37:44.000Z",
+   "updated": "2015-06-29T06:33:09.553Z",
+   "summary": "Lecture: Welcome",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T10:00:00-07:00"
+   },
+   "iCalUID": "9f4j4aj26pvsl6745sn8r3paa0@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871119788760000\"",
+   "id": "ahl9e4lol62j2p75vjo6n2qh6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YWhsOWU0bG9sNjJqMnA3NXZqbzZuMnFoNmsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:38:55.000Z",
+   "updated": "2015-06-29T06:38:14.380Z",
+   "summary": "Lecture: A Day at Codesmith",
+   "location": "Codesmith",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T11:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T11:30:00-07:00"
+   },
+   "iCalUID": "ahl9e4lol62j2p75vjo6n2qh6k@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871119794570000\"",
+   "id": "ofrj63ca7gad51qpns4m18fmgc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b2ZyajYzY2E3Z2FkNTFxcG5zNG0xOGZtZ2MgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T06:38:00.000Z",
+   "updated": "2015-06-29T06:38:17.285Z",
+   "summary": "Challenge: JS-Fundamentals",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T11:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T12:30:00-07:00"
+   },
+   "iCalUID": "ofrj63ca7gad51qpns4m18fmgc@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871120049738000\"",
+   "id": "01ihskaegcjj0619vjp9gj6lrc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDFpaHNrYWVnY2pqMDYxOXZqcDlnajZscmMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:39:45.000Z",
+   "updated": "2015-06-29T06:40:24.869Z",
+   "summary": "Lecture: Functions",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T14:00:00-07:00"
+   },
+   "iCalUID": "01ihskaegcjj0619vjp9gj6lrc@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871120434392000\"",
+   "id": "04lbd5tjhh7eg90q4t03t314nk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDRsYmQ1dGpoaDdlZzkwcTR0MDN0MzE0bmsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:40:01.000Z",
+   "updated": "2015-06-29T06:43:37.196Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T14:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T16:00:00-07:00"
+   },
+   "iCalUID": "04lbd5tjhh7eg90q4t03t314nk@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871120537744000\"",
+   "id": "penag5il310s8kppiqf1d3at6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGVuYWc1aWwzMTBzOGtwcGlxZjFkM2F0NmsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T06:44:26.000Z",
+   "updated": "2015-06-29T06:44:28.872Z",
+   "summary": "Lecture: Test Driven Learning + Github",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T16:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T16:30:00-07:00"
+   },
+   "iCalUID": "penag5il310s8kppiqf1d3at6k@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871120577990000\"",
+   "id": "tqit40kgnurcjcci0pot3afbkg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dHFpdDQwa2dudXJjamNjaTBwb3QzYWZia2cgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T06:44:48.000Z",
+   "updated": "2015-06-29T06:44:48.995Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T16:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T17:30:00-07:00"
+   },
+   "iCalUID": "tqit40kgnurcjcci0pot3afbkg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871121501544000\"",
+   "id": "cc9bmjb4hj2tgf2g4ert61el28",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2M5Ym1qYjRoajJ0Z2YyZzRlcnQ2MWVsMjggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T06:52:28.000Z",
+   "updated": "2015-06-29T06:52:30.772Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-01T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-01T20:00:00-07:00"
+   },
+   "iCalUID": "cc9bmjb4hj2tgf2g4ert61el28@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871122243646000\"",
+   "id": "ifaor279qr86dhansq7t7rrcoc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aWZhb3IyNzlxcjg2ZGhhbnNxN3Q3cnJjb2MgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T06:55:04.000Z",
+   "updated": "2015-06-29T06:58:41.823Z",
+   "summary": "Code Review",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-30T14:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-30T15:30:00-07:00"
+   },
+   "iCalUID": "ifaor279qr86dhansq7t7rrcoc@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871122374090000\"",
+   "id": "debr2lisq4j8j81gqgljjesqlo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZGVicjJsaXNxNGo4ajgxZ3FnbGpqZXNxbG8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T06:59:47.000Z",
+   "updated": "2015-06-29T06:59:47.045Z",
+   "summary": "Feedback",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-30T19:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-30T20:00:00-07:00"
+   },
+   "iCalUID": "debr2lisq4j8j81gqgljjesqlo@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871122634306000\"",
+   "id": "67ra7ng7jse4u4opuoe3bhs3f4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjdyYTduZzdqc2U0dTRvcHVvZTNiaHMzZjQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T07:01:38.000Z",
+   "updated": "2015-06-29T07:01:57.153Z",
+   "summary": "Feedback",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-02T19:15:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-02T20:00:00-07:00"
+   },
+   "iCalUID": "67ra7ng7jse4u4opuoe3bhs3f4@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871122783312000\"",
+   "id": "v9nrgnbiggkrsm5kdvqe6quvk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=djlucmduYmlnZ2tyc201a2R2cWU2cXV2azQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T07:03:08.000Z",
+   "updated": "2015-06-29T07:03:11.656Z",
+   "summary": "Approach Lecture",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-02T14:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-02T15:00:00-07:00"
+   },
+   "iCalUID": "v9nrgnbiggkrsm5kdvqe6quvk4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871207608564000\"",
+   "id": "rijg79rt2dnlja1n0u0evcj4oo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cmlqZzc5cnQyZG5samExbjB1MGV2Y2o0b28gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T18:50:04.000Z",
+   "updated": "2015-06-29T18:50:04.282Z",
+   "summary": "Social! Congrats on Day 1!",
+   "creator": {
+    "email": "rob@codesmith.io",
+    "displayName": "Rob Wilkinson"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T20:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T20:30:00-07:00"
+   },
+   "iCalUID": "rijg79rt2dnlja1n0u0evcj4oo@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/codesmith.io/social-congrats?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.rijg79rt2dnlja1n0u0evcj4oo"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871242703840000\"",
+   "id": "26kspds7msrvv0ot9u31npn3dc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjZrc3Bkczdtc3J2djBvdDl1MzFucG4zZGMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:40:50.000Z",
+   "updated": "2015-06-29T23:42:31.920Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T19:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T20:00:00-07:00"
+   },
+   "iCalUID": "26kspds7msrvv0ot9u31npn3dc@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871243083264000\"",
+   "id": "ff3cr53ap7q0er4k1pr0c1emms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZmYzY3I1M2FwN3EwZXI0azFwcjBjMWVtbXMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T23:44:59.000Z",
+   "updated": "2015-06-29T23:45:41.632Z",
+   "summary": "Lecture: More On Test Driven Learning",
+   "creator": {
+    "email": "arkox617@gmail.com",
+    "displayName": "Arko Dewri"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T19:00:00-07:00"
+   },
+   "iCalUID": "ff3cr53ap7q0er4k1pr0c1emms@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871370631412000\"",
+   "id": "ilivsebgvhfgl370dsfcrksulc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aWxpdnNlYmd2aGZnbDM3MGRzZmNya3N1bGMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:42:30.000Z",
+   "updated": "2015-06-30T17:28:35.706Z",
+   "summary": "Lecture: Objects",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-30T12:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-30T12:30:00-07:00"
+   },
+   "iCalUID": "ilivsebgvhfgl370dsfcrksulc@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871370637650000\"",
+   "id": "gk2qi1jbk6jpcg2pg321hlsbkk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2sycWkxamJrNmpwY2cycGczMjFobHNia2sgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:43:02.000Z",
+   "updated": "2015-06-30T17:28:38.825Z",
+   "summary": "Challenge: Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-30T11:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-30T12:00:00-07:00"
+   },
+   "iCalUID": "gk2qi1jbk6jpcg2pg321hlsbkk@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871375749700000\"",
+   "id": "3jhg6qnu56pd2ptvrmdr3hvrko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2poZzZxbnU1NnBkMnB0dnJtZHIzaHZya28gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-30T18:08:28.000Z",
+   "updated": "2015-06-30T18:11:14.850Z",
+   "summary": "ARKO Lecture!",
+   "creator": {
+    "email": "carol@codesmith.io",
+    "displayName": "Carol Gonzalez"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-30T17:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-30T17:45:00-07:00"
+   },
+   "iCalUID": "3jhg6qnu56pd2ptvrmdr3hvrko@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/codesmith.io/arko-lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.3jhg6qnu56pd2ptvrmdr3hvrko"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871391040086000\"",
+   "id": "12lns5rneauiqtmuefq6ukuui8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MTJsbnM1cm5lYXVpcXRtdWVmcTZ1a3V1aTggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:43:12.000Z",
+   "updated": "2015-06-30T20:18:40.043Z",
+   "summary": "Lecture: Callbacks",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-01T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-01T09:30:00-07:00"
+   },
+   "iCalUID": "12lns5rneauiqtmuefq6ukuui8@google.com",
+   "sequence": 4
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871391047496000\"",
+   "id": "emubt4hj7osuv4a7p118r212ko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZW11YnQ0aGo3b3N1djRhN3AxMThyMjEya28gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-28T19:43:25.000Z",
+   "updated": "2015-06-30T20:18:43.748Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-30T15:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-30T17:30:00-07:00"
+   },
+   "iCalUID": "emubt4hj7osuv4a7p118r212ko@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871427978894000\"",
+   "id": "_65h34p1l6hi36b9o6pj36b9kclj64b9p69j3ebb375hjgpj361h3eob36g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzY1aDM0cDFsNmhpMzZiOW82cGozNmI5a2NsajY0YjlwNjlqM2ViYjM3NWhqZ3BqMzYxaDNlb2IzNmcgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-01T01:26:29.000Z",
+   "updated": "2015-07-01T01:26:29.447Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "william.sentance@gmail.com",
+    "displayName": "Will Sentance"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-30T18:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-06-30T19:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "1b2d54d3-86f3-4efb-92f7-c9c8fc0b7ac4",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871531380768000\"",
+   "id": "_6kp34dj3c4o68bb46tj34b9kc5ij4bb169hj4bb1ckq3aphj75hmcdhl74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZrcDM0ZGozYzRvNjhiYjQ2dGozNGI5a2M1aWo0YmIxNjloajRiYjFja3EzYXBoajc1aG1jZGhsNzQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-01T15:48:10.000Z",
+   "updated": "2015-07-01T15:48:10.384Z",
+   "summary": "Scope 2",
+   "creator": {
+    "email": "william.sentance@gmail.com",
+    "displayName": "Will Sentance"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-02T12:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-02T12:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "5226ca0d-d7f2-4ae2-a2c2-ae45f39cf659",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871550637490000\"",
+   "id": "0n8733dkdb2r12n8gpc48l1tg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MG44NzMzZGtkYjJyMTJuOGdwYzQ4bDF0ZzggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T07:06:11.000Z",
+   "updated": "2015-07-01T18:28:38.745Z",
+   "summary": "Lecture: Evaluation, Equality and Assertion",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-01T13:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-01T14:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "0n8733dkdb2r12n8gpc48l1tg8@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871550641888000\"",
+   "id": "j2g5eacae7rpfo6lejsc0klvfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ajJnNWVhY2FlN3JwZm82bGVqc2Mwa2x2Zm8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T06:49:49.000Z",
+   "updated": "2015-07-01T18:28:40.944Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-01T09:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-01T12:30:00-07:00"
+   },
+   "iCalUID": "j2g5eacae7rpfo6lejsc0klvfo@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871575961056000\"",
+   "id": "83f52pecu586oevlsv514brcug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ODNmNTJwZWN1NTg2b2V2bHN2NTE0YnJjdWcgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T06:52:08.000Z",
+   "updated": "2015-07-01T21:59:40.528Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-01T14:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-01T17:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "83f52pecu586oevlsv514brcug@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871590837134000\"",
+   "id": "tackq1pfejh78nal132ihgc8rg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dGFja3ExcGZlamg3OG5hbDEzMmloZ2M4cmcgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-02T00:03:36.000Z",
+   "updated": "2015-07-02T00:03:38.567Z",
+   "summary": "Rob Lecture",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-01T17:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-01T18:00:00-07:00"
+   },
+   "iCalUID": "tackq1pfejh78nal132ihgc8rg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871708064178000\"",
+   "id": "uk7ru777876hra2plk4g9vjd70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dWs3cnU3Nzc4NzZocmEycGxrNGc5dmpkNzAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T07:03:46.000Z",
+   "updated": "2015-07-02T16:20:32.089Z",
+   "summary": "Lecture: Scope 1",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-02T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-02T09:30:00-07:00"
+   },
+   "iCalUID": "uk7ru777876hra2plk4g9vjd70@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871708980638000\"",
+   "id": "bneho3a64ll8h16ol7m62jqmvk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Ym5laG8zYTY0bGw4aDE2b2w3bTYyanFtdmsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T07:02:06.000Z",
+   "updated": "2015-07-02T16:28:10.319Z",
+   "summary": "Code Review",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-02T11:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-02T12:00:00-07:00"
+   },
+   "iCalUID": "bneho3a64ll8h16ol7m62jqmvk@google.com",
+   "sequence": 4
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871708985060000\"",
+   "id": "dg9brj91rsheeaeuv20qd3vdv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZGc5YnJqOTFyc2hlZWFldXYyMHFkM3ZkdjggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T07:01:10.000Z",
+   "updated": "2015-07-02T16:28:12.530Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-02T09:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-02T11:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "dg9brj91rsheeaeuv20qd3vdv8@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871709052522000\"",
+   "id": "m00r7ru43ppob77je9u9n6agd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bTAwcjdydTQzcHBvYjc3amU5dTluNmFnZDQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-02T16:28:37.000Z",
+   "updated": "2015-07-02T16:28:46.261Z",
+   "summary": "Challenge Cont'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-02T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-02T19:15:00-07:00"
+   },
+   "iCalUID": "m00r7ru43ppob77je9u9n6agd4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2871741760966000\"",
+   "id": "knifgfedgtarjp48idrs9ft758",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=a25pZmdmZWRndGFyanA0OGlkcnM5ZnQ3NTggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-06-29T07:01:18.000Z",
+   "updated": "2015-07-02T21:01:20.483Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-02T15:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-02T17:30:00-07:00"
+   },
+   "iCalUID": "knifgfedgtarjp48idrs9ft758@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "1nd22aj777srr9ifhtbg1i7v7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MW5kMjJhajc3N3NycjlpZmh0YmcxaTd2N29fMjAxNTA2MjlUMTYwMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-06-08T21:50:45.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Daily Notices",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T09:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-06-29T09:05:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;UNTIL=20150925T160000Z;BYDAY=MO,TU,WE,TH,FR,SA"
+   ],
+   "iCalUID": "1nd22aj777srr9ifhtbg1i7v7o@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "1nd22aj777srr9ifhtbg1i7v7o_20150629T160000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MW5kMjJhajc3N3NycjlpZmh0YmcxaTd2N29fMjAxNTA2MjlUMTYwMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-06-08T21:50:45.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Daily Notices",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-06-29T09:05:00-07:00"
+   },
+   "recurringEventId": "1nd22aj777srr9ifhtbg1i7v7o",
+   "originalStartTime": {
+    "dateTime": "2015-06-29T09:00:00-07:00"
+   },
+   "iCalUID": "1nd22aj777srr9ifhtbg1i7v7o@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "1nd22aj777srr9ifhtbg1i7v7o_20150703T160000Z",
+   "status": "cancelled",
+   "recurringEventId": "1nd22aj777srr9ifhtbg1i7v7o",
+   "originalStartTime": {
+    "dateTime": "2015-07-03T09:00:00-07:00"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "1nd22aj777srr9ifhtbg1i7v7o_20150704T160000Z",
+   "status": "cancelled",
+   "recurringEventId": "1nd22aj777srr9ifhtbg1i7v7o",
+   "originalStartTime": {
+    "dateTime": "2015-07-04T09:00:00-07:00"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "_68p6cpb660sjgbb5c8sjib9k6cpm4bb26lh62b9nc8oj6e1mckrj4c1lcg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzY4cDZjcGI2NjBzamdiYjVjOHNqaWI5azZjcG00YmIyNmxoNjJiOW5jOG9qNmUxbWNrcmo0YzFsY2cgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-06T06:17:05.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Lecture - Object Oriented JavaScript Part 1",
+   "creator": {
+    "email": "william.sentance@gmail.com",
+    "displayName": "Will Sentance"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-06T10:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-06T10:30:00-07:00"
+   },
+   "iCalUID": "22fef098-eb99-433b-b5ba-7b1386e7205d",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "_6kpj0phmc8qj4b9o68qj2b9k68r38b9ocpim6b9m74rmcohn75ij2d9icc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZrcGowcGhtYzhxajRiOW82OHFqMmI5azY4cjM4YjlvY3BpbTZiOW03NHJtY29objc1aWoyZDlpY2MgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-06T06:17:40.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Skills Builder",
+   "creator": {
+    "email": "william.sentance@gmail.com",
+    "displayName": "Will Sentance"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-06T10:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-06T12:00:00-07:00"
+   },
+   "iCalUID": "530f6b52-8251-4264-8fec-697fb79e152c",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "_6krm8opncoq3ab9n74p38b9k60q3eb9p6oq32bb461j3aor66lim8d9h6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZrcm04b3BuY29xM2FiOW43NHAzOGI5azYwcTNlYjlwNm9xMzJiYjQ2MWozYW9yNjZsaW04ZDloNm8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-06T06:18:21.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Lecture - Object Oriented JavaScript Part 2",
+   "creator": {
+    "email": "william.sentance@gmail.com",
+    "displayName": "Will Sentance"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-06T12:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-06T12:30:00-07:00"
+   },
+   "iCalUID": "57dc7f45-7924-4047-9641-d0f5cf5ed516",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "_6ks3ie9j6srjcbb3c4omcb9k6kqj4bb1cpi32bb36lgm8ohi60p66ohj70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZrczNpZTlqNnNyamNiYjNjNG9tY2I5azZrcWo0YmIxY3BpMzJiYjM2bGdtOG9oaTYwcDY2b2hqNzAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-06T06:18:59.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Lecture, Q&A - How to get the most out of your time at Codesmith",
+   "creator": {
+    "email": "william.sentance@gmail.com",
+    "displayName": "Will Sentance"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-06T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-06T19:00:00-07:00"
+   },
+   "iCalUID": "58993776-ca1f-4552-afd1-c5adb202cb38",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "_6oq36oj464o3gb9ic4p3gb9k6or6abb1c5ij4bb360p6adr56ksmcphh60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZvcTM2b2o0NjRvM2diOWljNHAzZ2I5azZvcjZhYmIxYzVpajRiYjM2MHA2YWRyNTZrc21jcGhoNjAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-06T06:19:17.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Challenge - Data structures and Object Oriented JavaScript",
+   "creator": {
+    "email": "william.sentance@gmail.com",
+    "displayName": "Will Sentance"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-06T14:10:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-06T17:30:00-07:00"
+   },
+   "iCalUID": "643bd108-2a28-466e-aae2-c02e7e59ff10",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "_c4qj0c316oq3cbb5clh64b9k6gomab9o70qj2bb3ckqmcor1clj3ie36cg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2M0cWowYzMxNm9xM2NiYjVjbGg2NGI5azZnb21hYjlvNzBxajJiYjNja3FtY29yMWNsajNpZTM2Y2cgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-06T05:58:58.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Assessment 1",
+   "creator": {
+    "email": "william.sentance@gmail.com",
+    "displayName": "Will Sentance"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-06T09:05:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-06T10:00:00-07:00"
+   },
+   "iCalUID": "a500a646-eebb-441e-8851-ce5fcaef98fd",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "_cpij0dhnc8o68b9k70s64b9kccp6cb9pcgp62bb1coq38dr370rmac9k64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2NwaWowZGhuYzhvNjhiOWs3MHM2NGI5a2NjcDZjYjlwY2dwNjJiYjFjb3EzOGRyMzcwcm1hYzlrNjQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-06T06:19:31.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Challenge - continued",
+   "creator": {
+    "email": "william.sentance@gmail.com",
+    "displayName": "Will Sentance"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-06T19:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-06T20:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "fe067b0d-488b-4c2f-9d2a-af447c87e141",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "aepb8rijekgt18l4igghq18uts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YWVwYjhyaWpla2d0MThsNGlnZ2hxMTh1dHNfMjAxNTA2MjlUMTkzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-06-08T21:53:26.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Lunch",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T12:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-06-29T13:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;UNTIL=20150925T193000Z;BYDAY=MO,WE,FR"
+   ],
+   "iCalUID": "aepb8rijekgt18l4igghq18uts@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "aepb8rijekgt18l4igghq18uts_20150703T193000Z",
+   "status": "cancelled",
+   "recurringEventId": "aepb8rijekgt18l4igghq18uts",
+   "originalStartTime": {
+    "dateTime": "2015-07-03T12:30:00-07:00"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "bl16j0pn9bs8fdp64ld1dbg5dc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YmwxNmowcG45YnM4ZmRwNjRsZDFkYmc1ZGNfMjAxNTA2MzBUMDAzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-06-26T16:37:58.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Dinner Talks: Will or Alex",
+   "description": "A 10 minute talk on an interesting Advanced Coding Topic led by Will or Alex",
+   "creator": {
+    "email": "carol@codesmith.io",
+    "displayName": "Carol Gonzalez"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T17:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-06-29T17:40:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;UNTIL=20150713T065959Z;BYDAY=MO"
+   ],
+   "iCalUID": "bl16j0pn9bs8fdp64ld1dbg5dc@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/codesmith.io/dinner-talks?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.bl16j0pn9bs8fdp64ld1dbg5dc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "bl16j0pn9bs8fdp64ld1dbg5dc_20150707T003000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YmwxNmowcG45YnM4ZmRwNjRsZDFkYmc1ZGNfMjAxNTA3MDdUMDAzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-06-26T16:37:58.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Dinner Talks: Travis/Victoria Project Presentation",
+   "description": "A 10 minute talk on an interesting Advanced Coding Topic led by Will or Alex",
+   "creator": {
+    "email": "carol@codesmith.io",
+    "displayName": "Carol Gonzalez"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-06T17:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-06T17:40:00-07:00"
+   },
+   "recurringEventId": "bl16j0pn9bs8fdp64ld1dbg5dc",
+   "originalStartTime": {
+    "dateTime": "2015-07-06T17:30:00-07:00"
+   },
+   "iCalUID": "bl16j0pn9bs8fdp64ld1dbg5dc@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/codesmith.io/dinner-talks?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.bl16j0pn9bs8fdp64ld1dbg5dc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "hiqr59s6aphiiheskmbbiee5o8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aGlxcjU5czZhcGhpaWhlc2ttYmJpZWU1bzhfMjAxNTA2MzBUMTkzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-06-08T21:54:26.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Lunch",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-30T12:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-06-30T14:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;UNTIL=20150924T193000Z;BYDAY=TU,TH,SA"
+   ],
+   "iCalUID": "hiqr59s6aphiiheskmbbiee5o8@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "hiqr59s6aphiiheskmbbiee5o8_20150704T193000Z",
+   "status": "cancelled",
+   "recurringEventId": "hiqr59s6aphiiheskmbbiee5o8",
+   "originalStartTime": {
+    "dateTime": "2015-07-04T12:30:00-07:00"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872474342236000\"",
+   "id": "ub5t2g87e1ghb9ks3r7cm8io4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dWI1dDJnODdlMWdoYjlrczNyN2NtOGlvNHMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-06T20:49:06.000Z",
+   "updated": "2015-07-07T02:46:11.118Z",
+   "summary": "Lecture: Assessment Solutions",
+   "creator": {
+    "email": "arkox617@gmail.com",
+    "displayName": "Arko Dewri"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-06T13:40:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-06T14:05:00-07:00"
+   },
+   "iCalUID": "ub5t2g87e1ghb9ks3r7cm8io4s@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872568056720000\"",
+   "id": "8qd71907qm444082atlk2tdiic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OHFkNzE5MDdxbTQ0NDA4MmF0bGsydGRpaWMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:47:02.000Z",
+   "updated": "2015-07-07T15:47:08.360Z",
+   "summary": "Data Structures",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-07T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-07T09:30:00-07:00"
+   },
+   "iCalUID": "8qd71907qm444082atlk2tdiic@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872568086216000\"",
+   "id": "2b6s10a8n72idt4lfjuf7hpj8s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MmI2czEwYThuNzJpZHQ0bGZqdWY3aHBqOHMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:47:20.000Z",
+   "updated": "2015-07-07T15:47:23.108Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-07T09:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-07T12:30:00-07:00"
+   },
+   "iCalUID": "2b6s10a8n72idt4lfjuf7hpj8s@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872568524348000\"",
+   "id": "nus7becdchfta08upsiuhka1mk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bnVzN2JlY2RjaGZ0YTA4dXBzaXVoa2ExbWsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:47:35.000Z",
+   "updated": "2015-07-07T15:51:02.174Z",
+   "summary": "Approach Lecture",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-08T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-08T14:30:00-07:00"
+   },
+   "iCalUID": "nus7becdchfta08upsiuhka1mk@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872568565790000\"",
+   "id": "a6kj6ilhepeqig6b83no6bj3co",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YTZrajZpbGhlcGVxaWc2Yjgzbm82YmozY28gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:51:20.000Z",
+   "updated": "2015-07-07T15:51:22.895Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-07T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-07T20:00:00-07:00"
+   },
+   "iCalUID": "a6kj6ilhepeqig6b83no6bj3co@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872568752722000\"",
+   "id": "rrart0d3mntq7qugtc6vhscfoo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cnJhcnQwZDNtbnRxN3F1Z3RjNnZoc2Nmb28gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:52:46.000Z",
+   "updated": "2015-07-07T15:52:56.361Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-08T14:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-08T17:30:00-07:00"
+   },
+   "iCalUID": "rrart0d3mntq7qugtc6vhscfoo@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872568811960000\"",
+   "id": "elcd071slvamraqbg27o08ruec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZWxjZDA3MXNsdmFtcmFxYmcyN28wOHJ1ZWMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:53:03.000Z",
+   "updated": "2015-07-07T15:53:25.980Z",
+   "summary": "Code Review",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-08T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-08T19:15:00-07:00"
+   },
+   "iCalUID": "elcd071slvamraqbg27o08ruec@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872568853486000\"",
+   "id": "86fshk7l2nrd0058ofglkfh4pg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ODZmc2hrN2wybnJkMDA1OG9mZ2xrZmg0cGcgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:53:39.000Z",
+   "updated": "2015-07-07T15:53:46.743Z",
+   "summary": "Feedback",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-08T19:15:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-08T20:00:00-07:00"
+   },
+   "iCalUID": "86fshk7l2nrd0058ofglkfh4pg@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872568937632000\"",
+   "id": "3us3tms6dsls1jad0k9hcoj37s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M3VzM3RtczZkc2xzMWphZDBrOWhjb2ozN3MgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:54:26.000Z",
+   "updated": "2015-07-07T15:54:28.816Z",
+   "summary": "Lecture",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-09T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-09T09:30:00-07:00"
+   },
+   "iCalUID": "3us3tms6dsls1jad0k9hcoj37s@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872568971088000\"",
+   "id": "onvaq6dk9r6bko5cm2o8kmv9fc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b252YXE2ZGs5cjZia281Y20ybzhrbXY5ZmMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:54:38.000Z",
+   "updated": "2015-07-07T15:54:45.544Z",
+   "summary": "Skills Builder",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-09T09:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-09T12:30:00-07:00"
+   },
+   "iCalUID": "onvaq6dk9r6bko5cm2o8kmv9fc@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872568985542000\"",
+   "id": "4ophh7qt1lk6ri2gof51llners",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NG9waGg3cXQxbGs2cmkyZ29mNTFsbG5lcnMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:54:50.000Z",
+   "updated": "2015-07-07T15:54:52.771Z",
+   "summary": "Lecture",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-09T14:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-09T15:00:00-07:00"
+   },
+   "iCalUID": "4ophh7qt1lk6ri2gof51llners@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872569034086000\"",
+   "id": "eef7fna8u88hck6pmdvsd7si48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZWVmN2ZuYTh1ODhoY2s2cG1kdnNkN3NpNDggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:55:08.000Z",
+   "updated": "2015-07-07T15:55:17.043Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-09T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-09T20:00:00-07:00"
+   },
+   "iCalUID": "eef7fna8u88hck6pmdvsd7si48@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872569113184000\"",
+   "id": "d8m9j4i746taln2q8128naofs8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZDhtOWo0aTc0NnRhbG4ycTgxMjhuYW9mczggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:55:54.000Z",
+   "updated": "2015-07-07T15:55:56.592Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-10T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-10T12:30:00-07:00"
+   },
+   "iCalUID": "d8m9j4i746taln2q8128naofs8@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872569146202000\"",
+   "id": "oak5dbunn1dbm1mbm9e1gp9i1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b2FrNWRidW5uMWRibTFtYm05ZTFncDlpMXMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:56:01.000Z",
+   "updated": "2015-07-07T15:56:13.101Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-10T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-10T17:30:00-07:00"
+   },
+   "iCalUID": "oak5dbunn1dbm1mbm9e1gp9i1s@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872569165864000\"",
+   "id": "8b0mr9nfir4nem58ma0aqh1s7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OGIwbXI5bmZpcjRuZW01OG1hMGFxaDFzN2cgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:56:20.000Z",
+   "updated": "2015-07-07T15:56:22.932Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-10T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-10T20:00:00-07:00"
+   },
+   "iCalUID": "8b0mr9nfir4nem58ma0aqh1s7g@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872569651606000\"",
+   "id": "3nolc5pm74731c2mkdsneh7l78",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M25vbGM1cG03NDczMWMybWtkc25laDdsNzggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:49:05.000Z",
+   "updated": "2015-07-07T16:00:25.803Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-07T15:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-07T17:30:00-07:00"
+   },
+   "iCalUID": "3nolc5pm74731c2mkdsneh7l78@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872569896280000\"",
+   "id": "fa1ka3l680vfm0j26aduhnko50",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZmExa2EzbDY4MHZmbTBqMjZhZHVobmtvNTAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T16:02:28.000Z",
+   "updated": "2015-07-07T16:02:28.140Z",
+   "summary": "Q&A",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-07T14:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-07T15:30:00-07:00"
+   },
+   "iCalUID": "fa1ka3l680vfm0j26aduhnko50@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872569958938000\"",
+   "id": "2mr912sfg7487o2f7a82pmk1sc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Mm1yOTEyc2ZnNzQ4N28yZjdhODJwbWsxc2MgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:52:27.000Z",
+   "updated": "2015-07-07T16:02:59.469Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-08T09:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-08T12:30:00-07:00"
+   },
+   "iCalUID": "2mr912sfg7487o2f7a82pmk1sc@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872569987910000\"",
+   "id": "g0171p3jo16irrdsi373an3ig0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZzAxNzFwM2pvMTZpcnJkc2kzNzNhbjNpZzAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T16:03:11.000Z",
+   "updated": "2015-07-07T16:03:13.955Z",
+   "summary": "Keyword this",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-08T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-08T09:30:00-07:00"
+   },
+   "iCalUID": "g0171p3jo16irrdsi373an3ig0@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872572045658000\"",
+   "id": "k2k7ehpnrd1od8k0gve7mii05o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=azJrN2VocG5yZDFvZDhrMGd2ZTdtaWkwNW8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:54:59.000Z",
+   "updated": "2015-07-07T16:20:22.829Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-09T16:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-09T17:30:00-07:00"
+   },
+   "iCalUID": "k2k7ehpnrd1od8k0gve7mii05o@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872572059246000\"",
+   "id": "m6kualoigtqlhkol3ul1648vhg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bTZrdWFsb2lndHFsaGtvbDN1bDE2NDh2aGcgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T16:20:29.000Z",
+   "updated": "2015-07-07T16:20:29.623Z",
+   "summary": "Circles",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-09T15:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-09T16:00:00-07:00"
+   },
+   "iCalUID": "m6kualoigtqlhkol3ul1648vhg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872580165646000\"",
+   "id": "640ub2e4gvro7id8cf61hprvf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjQwdWIyZTRndnJvN2lkOGNmNjFocHJ2ZjggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T17:27:25.000Z",
+   "updated": "2015-07-07T17:28:02.823Z",
+   "summary": "Ping-Pong/Coding Relay",
+   "creator": {
+    "email": "arkox617@gmail.com",
+    "displayName": "Arko Dewri"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-07T20:20:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-07T21:30:00-07:00"
+   },
+   "iCalUID": "640ub2e4gvro7id8cf61hprvf8@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872581027736000\"",
+   "id": "5ativ5pj9keu79brb6n793k1tg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWF0aXY1cGo5a2V1NzlicmI2bjc5M2sxdGcgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T17:35:03.000Z",
+   "updated": "2015-07-07T17:35:13.868Z",
+   "summary": "Tech Talk: Jae Hun Ro",
+   "creator": {
+    "email": "arkox617@gmail.com",
+    "displayName": "Arko Dewri"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-07T20:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-07T20:20:00-07:00"
+   },
+   "iCalUID": "5ativ5pj9keu79brb6n793k1tg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872913516268000\"",
+   "id": "iunj4dodi7pli1raerdvtdc1u0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aXVuajRkb2RpN3BsaTFyYWVyZHZ0ZGMxdTAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-09T15:45:55.000Z",
+   "updated": "2015-07-09T15:45:58.134Z",
+   "summary": "Lecture Recursion",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-10T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-10T09:30:00-07:00"
+   },
+   "iCalUID": "iunj4dodi7pli1raerdvtdc1u0@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2872974383238000\"",
+   "id": "1bgorc2ormfr4n8f8i4iem7m70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWJnb3JjMm9ybWZyNG44ZjhpNGllbTdtNzAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-10T00:12:53.000Z",
+   "updated": "2015-07-10T00:13:11.619Z",
+   "summary": "Happy Hour: Thursday Social & Drinks",
+   "creator": {
+    "email": "arkox617@gmail.com",
+    "displayName": "Arko Dewri"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-09T20:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-09T21:30:00-07:00"
+   },
+   "iCalUID": "1bgorc2ormfr4n8f8i4iem7m70@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873112319128000\"",
+   "id": "_c8pm6opi6so68b9m6kpj0b9k6thj8bb26oqj0b9h70sjcohm70p68d1pcg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2M4cG02b3BpNnNvNjhiOW02a3BqMGI5azZ0aGo4YmIyNm9xajBiOWg3MHNqY29obTcwcDY4ZDFwY2cgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-10T18:02:10.000Z",
+   "updated": "2015-07-10T19:22:39.564Z",
+   "summary": "8 Week program session",
+   "location": "Angular room",
+   "creator": {
+    "email": "william.sentance@gmail.com",
+    "displayName": "Will Sentance"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-10T12:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-10T13:00:00-07:00"
+   },
+   "iCalUID": "b3cc270d-6530-47c4-b650-1896b682d49d",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+     "displayName": "Codesmith-2",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "extendedProperties": {
+    "shared": {
+     "sunrise:place": "{\"name\":\"Angular room\"}"
+    }
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873127347240000\"",
+   "id": "8oq4mhno7ti7vb0ucob026mir0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OG9xNG1obm83dGk3dmIwdWNvYjAyNm1pcjAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-10T21:27:53.000Z",
+   "updated": "2015-07-10T21:27:53.620Z",
+   "summary": "Tech Talk: Enyu Hsu",
+   "creator": {
+    "email": "arkox617@gmail.com",
+    "displayName": "Arko Dewri"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-10T20:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-10T20:20:00-07:00"
+   },
+   "iCalUID": "8oq4mhno7ti7vb0ucob026mir0@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873260214370000\"",
+   "id": "slt8a35dti3uvm46fjd332p538",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=c2x0OGEzNWR0aTN1dm00NmZqZDMzMnA1MzggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:56:36.000Z",
+   "updated": "2015-07-11T15:55:07.185Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-11T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-11T11:30:00-07:00"
+   },
+   "iCalUID": "slt8a35dti3uvm46fjd332p538@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873260217820000\"",
+   "id": "fsdhi5r2uv2sj4u6n077k5h35s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZnNkaGk1cjJ1djJzajR1Nm4wNzdrNWgzNXMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:56:54.000Z",
+   "updated": "2015-07-11T15:55:08.910Z",
+   "summary": "Approach Lecture",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-11T11:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-11T12:30:00-07:00"
+   },
+   "iCalUID": "fsdhi5r2uv2sj4u6n077k5h35s@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873267824948000\"",
+   "id": "enl8h3c105h7r08v8oo4p2t9gg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZW5sOGgzYzEwNWg3cjA4djhvbzRwMnQ5Z2cgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-11T16:58:05.000Z",
+   "updated": "2015-07-11T16:58:32.474Z",
+   "summary": "Victoria/Travis Presentation",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-13T20:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-13T20:20:00-07:00"
+   },
+   "iCalUID": "enl8h3c105h7r08v8oo4p2t9gg@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873300529376000\"",
+   "id": "i60pd039tb7ech7f2gr4nim3tk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aTYwcGQwMzl0YjdlY2g3ZjJncjRuaW0zdGsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-09T15:45:10.000Z",
+   "updated": "2015-07-11T21:31:04.688Z",
+   "summary": "Feedback",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-11T16:45:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-11T17:30:00-07:00"
+   },
+   "iCalUID": "i60pd039tb7ech7f2gr4nim3tk@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873300561054000\"",
+   "id": "9iq93q2t4sg6tcvkvovcoo1848",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OWlxOTNxMnQ0c2c2dGN2a3ZvdmNvbzE4NDggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-07T15:57:31.000Z",
+   "updated": "2015-07-11T21:31:20.527Z",
+   "summary": "Code Review",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-11T16:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-11T16:45:00-07:00"
+   },
+   "iCalUID": "9iq93q2t4sg6tcvkvovcoo1848@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873300566588000\"",
+   "id": "ej4c27l61n4065mels0r0u2vv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZWo0YzI3bDYxbjQwNjVtZWxzMHIwdTJ2djAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-11T15:55:18.000Z",
+   "updated": "2015-07-11T21:31:23.294Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-11T14:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-11T16:00:00-07:00"
+   },
+   "iCalUID": "ej4c27l61n4065mels0r0u2vv0@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873339237592000\"",
+   "id": "8q0mha8e6v4mndlc02bk8fppko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OHEwbWhhOGU2djRtbmRsYzAyYms4ZnBwa28gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:53:38.000Z",
+   "updated": "2015-07-12T02:53:38.796Z",
+   "summary": "Hack Hour",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-13T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-13T10:00:00-07:00"
+   },
+   "iCalUID": "8q0mha8e6v4mndlc02bk8fppko@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873339276764000\"",
+   "id": "ogl19auu2f5qoat68t27pdps4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b2dsMTlhdXUyZjVxb2F0Njh0MjdwZHBzNG8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:53:55.000Z",
+   "updated": "2015-07-12T02:53:58.382Z",
+   "summary": "Lecture: Frontend",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-13T10:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-13T10:30:00-07:00"
+   },
+   "iCalUID": "ogl19auu2f5qoat68t27pdps4o@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873339296212000\"",
+   "id": "j4cfj9va285jtidvi3da04so1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ajRjZmo5dmEyODVqdGlkdmkzZGEwNHNvMW8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:54:06.000Z",
+   "updated": "2015-07-12T02:54:08.106Z",
+   "summary": "Skills Builder",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-13T10:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-13T12:30:00-07:00"
+   },
+   "iCalUID": "j4cfj9va285jtidvi3da04so1o@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873339381522000\"",
+   "id": "9rue3em6chn8sqchnt4cgkvll8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OXJ1ZTNlbTZjaG44c3FjaG50NGNna3ZsbDggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:54:48.000Z",
+   "updated": "2015-07-12T02:54:50.761Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-13T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-13T20:00:00-07:00"
+   },
+   "iCalUID": "9rue3em6chn8sqchnt4cgkvll8@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873339397692000\"",
+   "id": "lvh2hchm5hia3frq7e1vnoeoj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bHZoMmhjaG01aGlhM2ZycTdlMXZub2VvajQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:54:58.000Z",
+   "updated": "2015-07-12T02:54:58.846Z",
+   "summary": "Hack Hour",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-14T09:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-14T10:00:00-07:00"
+   },
+   "iCalUID": "lvh2hchm5hia3frq7e1vnoeoj4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873339438132000\"",
+   "id": "oofo6a4tig231hb5i2j3jjpago",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b29mbzZhNHRpZzIzMWhiNWkyajNqanBhZ28gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:55:16.000Z",
+   "updated": "2015-07-12T02:55:19.066Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-14T10:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-14T12:30:00-07:00"
+   },
+   "iCalUID": "oofo6a4tig231hb5i2j3jjpago@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873339455884000\"",
+   "id": "lou1t2klqer89c2sn0ddtgckr4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bG91MXQya2xxZXI4OWMyc24wZGR0Z2NrcjQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:55:27.000Z",
+   "updated": "2015-07-12T02:55:27.942Z",
+   "summary": "Approach Lecture",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-14T14:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-14T15:30:00-07:00"
+   },
+   "iCalUID": "lou1t2klqer89c2sn0ddtgckr4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873339629924000\"",
+   "id": "5qvqcek3sf5kohhth2vu397fgk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NXF2cWNlazNzZjVrb2hodGgydnUzOTdmZ2sgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:56:42.000Z",
+   "updated": "2015-07-12T02:56:54.962Z",
+   "summary": "Feedback",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-14T19:15:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-14T20:00:00-07:00"
+   },
+   "iCalUID": "5qvqcek3sf5kohhth2vu397fgk@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873536089508000\"",
+   "id": "ttcte25s2l5qclmn7dqt0m52m8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dHRjdGUyNXMybDVxY2xtbjdkcXQwbTUybTggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:56:02.000Z",
+   "updated": "2015-07-13T06:14:04.754Z",
+   "summary": "Challenge Refactor",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-14T15:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-14T16:30:00-07:00"
+   },
+   "iCalUID": "ttcte25s2l5qclmn7dqt0m52m8@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873536148220000\"",
+   "id": "rk1or0mip8gtak1eitc0b5he7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cmsxb3IwbWlwOGd0YWsxZWl0YzBiNWhlN2MgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:56:31.000Z",
+   "updated": "2015-07-13T06:14:34.110Z",
+   "summary": "Present Projects",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-14T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-14T19:15:00-07:00"
+   },
+   "iCalUID": "rk1or0mip8gtak1eitc0b5he7c@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873536166792000\"",
+   "id": "omj029sh24au99aug5r90h5ra4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b21qMDI5c2gyNGF1OTlhdWc1cjkwaDVyYTQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-13T06:14:21.000Z",
+   "updated": "2015-07-13T06:14:43.396Z",
+   "summary": "Code Review",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-14T16:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-14T17:30:00-07:00"
+   },
+   "iCalUID": "omj029sh24au99aug5r90h5ra4@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873609841502000\"",
+   "id": "p2rcscsaooeef10mpsuqpcgsuc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cDJyY3Njc2Fvb2VlZjEwbXBzdXFwY2dzdWMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:54:23.000Z",
+   "updated": "2015-07-13T16:28:40.751Z",
+   "summary": "Lecture: DOM",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-13T16:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-13T16:30:00-07:00"
+   },
+   "iCalUID": "p2rcscsaooeef10mpsuqpcgsuc@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873609989882000\"",
+   "id": "9ts3vfne2202legduaa63tk3t4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OXRzM3ZmbmUyMjAybGVnZHVhYTYzdGszdDQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-13T16:29:52.000Z",
+   "updated": "2015-07-13T16:29:54.941Z",
+   "summary": "Lecture: How to approach a programming problem",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-13T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-13T14:00:00-07:00"
+   },
+   "iCalUID": "9ts3vfne2202legduaa63tk3t4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873609996172000\"",
+   "id": "o49gk9i4kof513jb1sfcmp803s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bzQ5Z2s5aTRrb2Y1MTNqYjFzZmNtcDgwM3MgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-12T02:54:39.000Z",
+   "updated": "2015-07-13T16:29:58.086Z",
+   "summary": "Challenge",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-13T14:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-13T16:00:00-07:00"
+   },
+   "iCalUID": "o49gk9i4kof513jb1sfcmp803s@google.com",
+   "sequence": 3
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873610020224000\"",
+   "id": "13qk13m8bobtsrhsthm011j84o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MTNxazEzbThib2J0c3Joc3RobTAxMWo4NG8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-13T16:30:10.000Z",
+   "updated": "2015-07-13T16:30:10.112Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-13T16:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-13T17:30:00-07:00"
+   },
+   "iCalUID": "13qk13m8bobtsrhsthm011j84o@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873616225312000\"",
+   "id": "l4odut6o5fcjidqdm31pffklg0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bDRvZHV0Nm81ZmNqaWRxZG0zMXBmZmtsZzAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-13T17:21:35.000Z",
+   "updated": "2015-07-13T17:21:52.656Z",
+   "summary": "Tech Talk: Rouzbeh",
+   "creator": {
+    "email": "jasminegiang@gmail.com",
+    "displayName": "Jasmine Giang"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-14T20:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-14T20:30:00-07:00"
+   },
+   "iCalUID": "l4odut6o5fcjidqdm31pffklg0@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873825991060000\"",
+   "id": "0cu9bn4e39u4q2nncrg71lmvfk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGN1OWJuNGUzOXU0cTJubmNyZzcxbG12ZmsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-14T22:29:55.000Z",
+   "updated": "2015-07-14T22:29:55.530Z",
+   "summary": "Movie Night",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-14T20:20:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-14T22:00:00-07:00"
+   },
+   "iCalUID": "0cu9bn4e39u4q2nncrg71lmvfk@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/movie-night?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0cu9bn4e39u4q2nncrg71lmvfk"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873950630446000\"",
+   "id": "j762fcnf68s3v4pkpdjd0njhj8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ajc2MmZjbmY2OHMzdjRwa3BkamQwbmpoajhfMjAxNTA3MjBUMTUzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-14T22:29:28.000Z",
+   "updated": "2015-07-15T15:48:35.223Z",
+   "summary": "Pancakes!",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-20T08:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-20T09:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;BYDAY=MO"
+   ],
+   "iCalUID": "j762fcnf68s3v4pkpdjd0njhj8@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/pancakes?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.j762fcnf68s3v4pkpdjd0njhj8"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873951188984000\"",
+   "id": "rb101promsr96i8tmmuu0e28cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cmIxMDFwcm9tc3I5Nmk4dG1tdXUwZTI4Y2NfMjAxNTA3MTVUMTYwNTAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-15T15:53:14.000Z",
+   "updated": "2015-07-15T15:53:14.492Z",
+   "summary": "Hack Hour (Solution + New Problem)",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-15T09:05:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-15T10:05:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR,SA"
+   ],
+   "iCalUID": "rb101promsr96i8tmmuu0e28cc@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/hack-hour?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.rb101promsr96i8tmmuu0e28cc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873951315738000\"",
+   "id": "irn9qdmvjgh703uqudi4hscrao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aXJuOXFkbXZqZ2g3MDN1cXVkaTRoc2NyYW8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-15T15:54:17.000Z",
+   "updated": "2015-07-15T15:54:17.869Z",
+   "summary": "Lecture: Client Server",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-15T10:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-15T10:20:00-07:00"
+   },
+   "iCalUID": "irn9qdmvjgh703uqudi4hscrao@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture-client?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.irn9qdmvjgh703uqudi4hscrao"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873951379584000\"",
+   "id": "gdu0r0idu9369qac1kq6i5lfc0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2R1MHIwaWR1OTM2OXFhYzFrcTZpNWxmYzAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-15T15:54:49.000Z",
+   "updated": "2015-07-15T15:54:49.792Z",
+   "summary": "Skills Builder: Online Calendar",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-15T10:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-15T12:30:00-07:00"
+   },
+   "iCalUID": "gdu0r0idu9369qac1kq6i5lfc0@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/skills-builder?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.gdu0r0idu9369qac1kq6i5lfc0"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873952066564000\"",
+   "id": "q870q7d36u7k3jb9ep781icb7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cTg3MHE3ZDM2dTdrM2piOWVwNzgxaWNiN2MgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-15T15:57:29.000Z",
+   "updated": "2015-07-15T16:00:33.282Z",
+   "summary": "Challenge: Online Chatroom",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-15T13:50:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-15T17:30:00-07:00"
+   },
+   "iCalUID": "q870q7d36u7k3jb9ep781icb7c@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.q870q7d36u7k3jb9ep781icb7c"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873962875024000\"",
+   "id": "7f2m1t0kalino963uiit6tpeb8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2YybTF0MGthbGlubzk2M3VpaXQ2dHBlYjggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-15T17:30:19.000Z",
+   "updated": "2015-07-15T17:30:37.512Z",
+   "summary": "Tech Talk: Arko",
+   "creator": {
+    "email": "jasminegiang@gmail.com",
+    "displayName": "Jasmine Giang"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-20T20:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-20T20:15:00-07:00"
+   },
+   "iCalUID": "7f2m1t0kalino963uiit6tpeb8@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873962896286000\"",
+   "id": "gqerc6692cgvq5vbdc4rrtglr8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z3FlcmM2NjkyY2d2cTV2YmRjNHJydGdscjggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-15T17:01:48.000Z",
+   "updated": "2015-07-15T17:30:48.143Z",
+   "summary": "Tech Talk: Andy",
+   "creator": {
+    "email": "jasminegiang@gmail.com",
+    "displayName": "Jasmine Giang"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-17T20:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-17T20:15:00-07:00"
+   },
+   "iCalUID": "gqerc6692cgvq5vbdc4rrtglr8@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873964203938000\"",
+   "id": "1l81hiavq9vbq2u1agfte6h138",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWw4MWhpYXZxOXZicTJ1MWFnZnRlNmgxMzhfMjAxNTA3MjBUMTcwMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-15T17:41:41.000Z",
+   "updated": "2015-07-15T17:41:41.969Z",
+   "summary": "Lecture",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-20T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-20T10:20:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;BYDAY=MO,WE,FR"
+   ],
+   "iCalUID": "1l81hiavq9vbq2u1agfte6h138@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1l81hiavq9vbq2u1agfte6h138"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873994275480000\"",
+   "id": "bhagk109n3ormqa16u62804pbc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YmhhZ2sxMDluM29ybXFhMTZ1NjI4MDRwYmMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-15T15:58:15.000Z",
+   "updated": "2015-07-15T21:52:17.740Z",
+   "summary": "Challenge Cont'd",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-15T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-15T20:00:00-07:00"
+   },
+   "iCalUID": "bhagk109n3ormqa16u62804pbc@google.com",
+   "sequence": 2,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge-cont?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.bhagk109n3ormqa16u62804pbc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2873998765074000\"",
+   "id": "1g4orfvrhtf7bfm0fobjhuhnv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWc0b3JmdnJodGY3YmZtMGZvYmpodWhudjAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-15T15:56:50.000Z",
+   "updated": "2015-07-15T22:29:42.537Z",
+   "summary": "Lecture: AJAX",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-15T16:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-15T16:20:00-07:00"
+   },
+   "iCalUID": "1g4orfvrhtf7bfm0fobjhuhnv0@google.com",
+   "sequence": 3,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture-ajax?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1g4orfvrhtf7bfm0fobjhuhnv0"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874123091608000\"",
+   "id": "s81eq0d01v5qrrmrvp6nfe44b0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=czgxZXEwZDAxdjVxcnJtcnZwNm5mZTQ0YjAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T15:45:43.000Z",
+   "updated": "2015-07-16T15:45:45.804Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-16T10:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-16T12:30:00-07:00"
+   },
+   "iCalUID": "s81eq0d01v5qrrmrvp6nfe44b0@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874123202874000\"",
+   "id": "oa6s48iiue2pt24bl9699d45hg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b2E2czQ4aWl1ZTJwdDI0Ymw5Njk5ZDQ1aGcgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T15:46:36.000Z",
+   "updated": "2015-07-16T15:46:41.437Z",
+   "summary": "Challenge Contn'd",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-16T16:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-16T17:30:00-07:00"
+   },
+   "iCalUID": "oa6s48iiue2pt24bl9699d45hg@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874123256018000\"",
+   "id": "ngn7lbq31bafe77ggmdfm49368",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bmduN2xicTMxYmFmZTc3Z2dtZGZtNDkzNjggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T15:47:02.000Z",
+   "updated": "2015-07-16T15:47:08.009Z",
+   "summary": "Code Review",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-16T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-16T19:15:00-07:00"
+   },
+   "iCalUID": "ngn7lbq31bafe77ggmdfm49368@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874123284186000\"",
+   "id": "s2gis3ob8dhft9m1aptlqinn34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=czJnaXMzb2I4ZGhmdDltMWFwdGxxaW5uMzQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T15:47:22.000Z",
+   "updated": "2015-07-16T15:47:22.093Z",
+   "summary": "Feedback",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-16T19:15:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-16T20:00:00-07:00"
+   },
+   "iCalUID": "s2gis3ob8dhft9m1aptlqinn34@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874132205054000\"",
+   "id": "sflju20ncrpph671i9k0ttjvv4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=c2ZsanUyMG5jcnBwaDY3MWk5azB0dGp2djQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-15T16:10:17.000Z",
+   "updated": "2015-07-16T17:01:42.527Z",
+   "summary": "Office Hours with Will",
+   "description": "Please Slack me if you want to schedule a time. Thank you!",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-17T14:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-17T16:00:00-07:00"
+   },
+   "iCalUID": "sflju20ncrpph671i9k0ttjvv4@google.com",
+   "sequence": 2,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/office-hours?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.sflju20ncrpph671i9k0ttjvv4"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874133176232000\"",
+   "id": "vpmem6sqd3v7rm3ssvhjs1nh1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dnBtZW02c3FkM3Y3cm0zc3N2aGpzMW5oMXMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T17:09:48.000Z",
+   "updated": "2015-07-16T17:09:48.116Z",
+   "summary": "Skills Builder: Tic Tac Toe",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-17T10:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-17T12:30:00-07:00"
+   },
+   "iCalUID": "vpmem6sqd3v7rm3ssvhjs1nh1s@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/skills-builder?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.vpmem6sqd3v7rm3ssvhjs1nh1s"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874133687428000\"",
+   "id": "2j016v2s25gc0csu38mhmd6sak",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MmowMTZ2MnMyNWdjMGNzdTM4bWhtZDZzYWsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T17:12:24.000Z",
+   "updated": "2015-07-16T17:14:03.714Z",
+   "summary": "Challenge: React Calendar",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-17T14:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-17T17:30:00-07:00"
+   },
+   "iCalUID": "2j016v2s25gc0csu38mhmd6sak@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.2j016v2s25gc0csu38mhmd6sak"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874133733382000\"",
+   "id": "mudab5791f9dre6d5o9f2begrc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bXVkYWI1NzkxZjlkcmU2ZDVvOWYyYmVncmMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T17:14:26.000Z",
+   "updated": "2015-07-16T17:14:26.691Z",
+   "summary": "Challenge: React Calendar cont'd",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-17T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-17T20:00:00-07:00"
+   },
+   "iCalUID": "mudab5791f9dre6d5o9f2begrc@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge-react?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.mudab5791f9dre6d5o9f2begrc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874133799424000\"",
+   "id": "vt4nrsfk58ib99cnof2duk20to",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dnQ0bnJzZms1OGliOTljbm9mMmR1azIwdG8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T17:14:59.000Z",
+   "updated": "2015-07-16T17:14:59.712Z",
+   "summary": "Challenge: React Calendar cont'd",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-18T10:05:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-18T12:30:00-07:00"
+   },
+   "iCalUID": "vt4nrsfk58ib99cnof2duk20to@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge-react?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.vt4nrsfk58ib99cnof2duk20to"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874167872112000\"",
+   "id": "9he9n84jvc8fq3ore6ndskebnk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OWhlOW44NGp2YzhmcTNvcmU2bmRza2VibmsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T15:45:57.000Z",
+   "updated": "2015-07-16T21:58:56.056Z",
+   "summary": "Circles",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-16T15:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-16T16:30:00-07:00"
+   },
+   "iCalUID": "9he9n84jvc8fq3ore6ndskebnk@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874167887606000\"",
+   "id": "ot6uv5jmggjvpmnrqubjtffqlg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b3Q2dXY1am1nZ2p2cG1ucnF1Ymp0ZmZxbGcgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T15:46:11.000Z",
+   "updated": "2015-07-16T21:59:03.803Z",
+   "summary": "Approach Lecture",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-16T14:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-16T15:30:00-07:00"
+   },
+   "iCalUID": "ot6uv5jmggjvpmnrqubjtffqlg@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874207210542000\"",
+   "id": "agh9v5c5meo2n6d1ikpetgsdo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YWdoOXY1YzVtZW8ybjZkMWlrcGV0Z3NkbzQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T23:29:30.000Z",
+   "updated": "2015-07-17T03:26:45.271Z",
+   "summary": "Family Fued: Tech Edition",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-21T20:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-21T21:30:00-07:00"
+   },
+   "iCalUID": "agh9v5c5meo2n6d1ikpetgsdo4@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/family-fued?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.agh9v5c5meo2n6d1ikpetgsdo4"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874207378062000\"",
+   "id": "pros94rch66of21k8r1feho8pk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cHJvczk0cmNoNjZvZjIxazhyMWZlaG84cGsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-17T03:28:09.000Z",
+   "updated": "2015-07-17T03:28:09.031Z",
+   "summary": "Hackathon: Cohort 2",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-22T20:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-22T22:30:00-07:00"
+   },
+   "iCalUID": "pros94rch66of21k8r1feho8pk@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/hackathon?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.pros94rch66of21k8r1feho8pk"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874473044976000\"",
+   "id": "gdm2q5mbb21498242063nlqc9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2RtMnE1bWJiMjE0OTgyNDIwNjNubHFjOXMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T16:19:59.000Z",
+   "updated": "2015-07-18T16:22:02.488Z",
+   "summary": "Lecture: React",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-20T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-20T14:00:00-07:00"
+   },
+   "iCalUID": "gdm2q5mbb21498242063nlqc9s@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.gdm2q5mbb21498242063nlqc9s"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874473513150000\"",
+   "id": "mhjrtir5fd9kqs52j4lvop2dl4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bWhqcnRpcjVmZDlrcXM1Mmo0bHZvcDJkbDQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T16:23:55.000Z",
+   "updated": "2015-07-18T16:25:56.575Z",
+   "summary": "Code Review: React",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-21T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-21T19:15:00-07:00"
+   },
+   "iCalUID": "mhjrtir5fd9kqs52j4lvop2dl4@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/code-review?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.mhjrtir5fd9kqs52j4lvop2dl4"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874473550372000\"",
+   "id": "9sca3cqgt348jgtvt89ruqdcj8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OXNjYTNjcWd0MzQ4amd0dnQ4OXJ1cWRjajggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T16:26:15.000Z",
+   "updated": "2015-07-18T16:26:15.186Z",
+   "summary": "Feedback",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-21T19:15:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-21T20:00:00-07:00"
+   },
+   "iCalUID": "9sca3cqgt348jgtvt89ruqdcj8@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/feedback?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.9sca3cqgt348jgtvt89ruqdcj8"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874473696522000\"",
+   "id": "b0jasnbmk4cgaatao6a6l0fmlk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YjBqYXNuYm1rNGNnYWF0YW82YTZsMGZtbGsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T16:27:28.000Z",
+   "updated": "2015-07-18T16:27:28.261Z",
+   "summary": "Refresher",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-21T10:05:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-21T20:00:00-07:00"
+   },
+   "iCalUID": "b0jasnbmk4cgaatao6a6l0fmlk@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/refresher?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.b0jasnbmk4cgaatao6a6l0fmlk"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874473841954000\"",
+   "id": "aepb8rijekgt18l4igghq18uts_20150715T193000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YWVwYjhyaWpla2d0MThsNGlnZ2hxMTh1dHNfMjAxNTA3MTVUMTkzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-06-08T21:53:26.000Z",
+   "updated": "2015-07-18T16:28:40.977Z",
+   "summary": "Lunch",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-16T10:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-16T11:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurringEventId": "aepb8rijekgt18l4igghq18uts",
+   "originalStartTime": {
+    "dateTime": "2015-07-15T12:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "aepb8rijekgt18l4igghq18uts@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874473965974000\"",
+   "id": "ec0jh5oh9mg035rg8acmntohgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZWMwamg1b2g5bWcwMzVyZzhhY21udG9oZ2cgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T16:29:42.000Z",
+   "updated": "2015-07-18T16:29:42.987Z",
+   "summary": "Presentations",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-23T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-23T19:15:00-07:00"
+   },
+   "iCalUID": "ec0jh5oh9mg035rg8acmntohgg@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/presentations?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.ec0jh5oh9mg035rg8acmntohgg"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874474004904000\"",
+   "id": "sjalr19th2bmrn1o1td4s3hem4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=c2phbHIxOXRoMmJtcm4xbzF0ZDRzM2hlbTQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T16:30:02.000Z",
+   "updated": "2015-07-18T16:30:02.452Z",
+   "summary": "Lecture",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-22T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-22T14:00:00-07:00"
+   },
+   "iCalUID": "sjalr19th2bmrn1o1td4s3hem4@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.sjalr19th2bmrn1o1td4s3hem4"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874475368564000\"",
+   "id": "fr5hs06b3du40ckbcuhu83ejro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZnI1aHMwNmIzZHU0MGNrYmN1aHU4M2Vqcm8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T16:41:24.000Z",
+   "updated": "2015-07-18T16:41:24.282Z",
+   "summary": "Instablogging",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-20T16:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-20T16:40:00-07:00"
+   },
+   "iCalUID": "fr5hs06b3du40ckbcuhu83ejro@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/instablogging?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.fr5hs06b3du40ckbcuhu83ejro"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874513534584000\"",
+   "id": "r1r7cccfell7hur37uqunhbe3k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cjFyN2NjY2ZlbGw3aHVyMzd1cXVuaGJlM2sgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T21:59:27.000Z",
+   "updated": "2015-07-18T21:59:27.292Z",
+   "summary": "Feedback",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-23T19:15:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-23T20:00:00-07:00"
+   },
+   "iCalUID": "r1r7cccfell7hur37uqunhbe3k@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/feedback?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.r1r7cccfell7hur37uqunhbe3k"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874514143226000\"",
+   "id": "eb1vtsaat6kjf5p74nv3qocj6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZWIxdnRzYWF0NmtqZjVwNzRudjNxb2NqNnNfMjAxNTA2MzBUMDAzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-06-08T21:55:28.000Z",
+   "updated": "2015-07-18T22:04:31.613Z",
+   "summary": "Dinner",
+   "creator": {
+    "email": "azai91@gmail.com",
+    "displayName": "Alex Zai"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-06-29T17:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-06-29T18:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR"
+   ],
+   "iCalUID": "eb1vtsaat6kjf5p74nv3qocj6s@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874514143226000\"",
+   "id": "eb1vtsaat6kjf5p74nv3qocj6s_20150704T003000Z",
+   "status": "cancelled",
+   "recurringEventId": "eb1vtsaat6kjf5p74nv3qocj6s",
+   "originalStartTime": {
+    "dateTime": "2015-07-03T17:30:00-07:00"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874514601564000\"",
+   "id": "pb75hhnofire3i109m3le29vbc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGI3NWhobm9maXJlM2kxMDltM2xlMjl2YmMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T22:08:20.000Z",
+   "updated": "2015-07-18T22:08:20.782Z",
+   "summary": "Challenge: refactoring",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-23T16:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-23T17:30:00-07:00"
+   },
+   "iCalUID": "pb75hhnofire3i109m3le29vbc@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.pb75hhnofire3i109m3le29vbc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874514997852000\"",
+   "id": "nfhasjoqoscfus0soo8e7n68k4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bmZoYXNqb3Fvc2NmdXMwc29vOGU3bjY4azRfMjAxNTA3MThUMjIzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-16T17:16:02.000Z",
+   "updated": "2015-07-18T22:11:38.926Z",
+   "summary": "Challenge: React Calendar refactoring",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-18T15:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-18T16:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;BYDAY=SA"
+   ],
+   "iCalUID": "nfhasjoqoscfus0soo8e7n68k4@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge-react?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.nfhasjoqoscfus0soo8e7n68k4"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515017044000\"",
+   "id": "e8np1mgvc050cv0hkl71vp2l2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZThucDFtZ3ZjMDUwY3YwaGtsNzF2cDJsMm9fMjAxNTA3MThUMjMwMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-16T17:16:11.000Z",
+   "updated": "2015-07-18T22:11:48.522Z",
+   "summary": "Code Review",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-18T16:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-18T16:45:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;BYDAY=SA"
+   ],
+   "iCalUID": "e8np1mgvc050cv0hkl71vp2l2o@google.com",
+   "sequence": 2,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/code-review?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.e8np1mgvc050cv0hkl71vp2l2o"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515030922000\"",
+   "id": "t2kltpbcuu3l7vem04ek9rjs2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDJrbHRwYmN1dTNsN3ZlbTA0ZWs5cmpzMm9fMjAxNTA3MThUMjM0NTAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-18T21:58:39.000Z",
+   "updated": "2015-07-18T22:11:55.461Z",
+   "summary": "Feedback",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-18T16:45:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-18T17:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;BYDAY=SA"
+   ],
+   "iCalUID": "t2kltpbcuu3l7vem04ek9rjs2o@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/feedback?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.t2kltpbcuu3l7vem04ek9rjs2o"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515116406000\"",
+   "id": "0bl8ronrs0713qsjn22c5os6c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGJsOHJvbnJzMDcxM3Fzam4yMmM1b3M2YzRfMjAxNTA3MThUMjEzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-16T17:15:39.000Z",
+   "updated": "2015-07-18T22:12:38.203Z",
+   "summary": "Approach Lecture",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-18T14:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-18T15:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;UNTIL=20150723T065959Z;BYDAY=TU,TH,SA"
+   ],
+   "iCalUID": "0bl8ronrs0713qsjn22c5os6c4@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/approach?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0bl8ronrs0713qsjn22c5os6c4"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515157338000\"",
+   "id": "p5qpn30dnmvmv036uc8sd05018",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cDVxcG4zMGRubXZtdjAzNnVjOHNkMDUwMThfMjAxNTA3MjNUMjEzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-18T16:29:10.000Z",
+   "updated": "2015-07-18T22:12:58.669Z",
+   "summary": "Circles",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-23T14:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-23T15:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;BYDAY=TH"
+   ],
+   "iCalUID": "p5qpn30dnmvmv036uc8sd05018@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/circles?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.p5qpn30dnmvmv036uc8sd05018"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515242060000\"",
+   "id": "o53lkfcp87tnc4drb1mta8d1ok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bzUzbGtmY3A4N3RuYzRkcmIxbXRhOGQxb2tfMjAxNTA3MjNUMjIzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-16T17:15:39.000Z",
+   "updated": "2015-07-18T22:13:41.030Z",
+   "summary": "Approach Lecture",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-23T15:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-23T16:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;UNTIL=20150725T065959Z;BYDAY=TU,TH,SA"
+   ],
+   "iCalUID": "o53lkfcp87tnc4drb1mta8d1ok@google.com",
+   "sequence": 2,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/approach?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.o53lkfcp87tnc4drb1mta8d1ok"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515675474000\"",
+   "id": "0bl8ronrs0713qsjn22c5os6c4_20150721T213000Z",
+   "status": "cancelled",
+   "recurringEventId": "0bl8ronrs0713qsjn22c5os6c4",
+   "originalStartTime": {
+    "dateTime": "2015-07-21T14:30:00-07:00"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515735790000\"",
+   "id": "sj2rruj9vu1ul66da305pqtvuo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=c2oycnJ1ajl2dTF1bDY2ZGEzMDVwcXR2dW8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T22:17:47.000Z",
+   "updated": "2015-07-18T22:17:47.895Z",
+   "summary": "Code Review: Fundamentals",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-21T14:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-21T15:30:00-07:00"
+   },
+   "iCalUID": "sj2rruj9vu1ul66da305pqtvuo@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/code-review?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.sj2rruj9vu1ul66da305pqtvuo"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515813774000\"",
+   "id": "99lpa44sa3jqf7p1hme2gm0v74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OTlscGE0NHNhM2pxZjdwMWhtZTJnbTB2NzRfMjAxNTA3MjVUMjEzMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-18T22:18:26.000Z",
+   "updated": "2015-07-18T22:18:26.887Z",
+   "summary": "Approach Lecture",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-25T14:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-25T15:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;BYDAY=SA"
+   ],
+   "iCalUID": "99lpa44sa3jqf7p1hme2gm0v74@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/approach?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.99lpa44sa3jqf7p1hme2gm0v74"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515928064000\"",
+   "id": "gimbmvtrab45mv5n7nicnie72c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2ltYm12dHJhYjQ1bXY1bjduaWNuaWU3MmMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T22:08:45.000Z",
+   "updated": "2015-07-18T22:19:24.032Z",
+   "summary": "Skill Builder: Node Game",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-24T10:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-24T12:30:00-07:00"
+   },
+   "iCalUID": "gimbmvtrab45mv5n7nicnie72c@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/skill-builder?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.gimbmvtrab45mv5n7nicnie72c"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515941750000\"",
+   "id": "rrksu6tdppstcdvboprv5qhrmk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cnJrc3U2dGRwcHN0Y2R2Ym9wcnY1cWhybWsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T22:10:11.000Z",
+   "updated": "2015-07-18T22:19:30.875Z",
+   "summary": "Challenge: Node API",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-24T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-24T20:00:00-07:00"
+   },
+   "iCalUID": "rrksu6tdppstcdvboprv5qhrmk@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.rrksu6tdppstcdvboprv5qhrmk"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515972206000\"",
+   "id": "lg526equ1n7s2lp1u1b5kqcrr0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bGc1MjZlcXUxbjdzMmxwMXUxYjVrcWNycjAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T22:07:15.000Z",
+   "updated": "2015-07-18T22:19:46.103Z",
+   "summary": "Skill Builder: Node Pages",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-22T10:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-22T12:30:00-07:00"
+   },
+   "iCalUID": "lg526equ1n7s2lp1u1b5kqcrr0@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/skill-builder?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.lg526equ1n7s2lp1u1b5kqcrr0"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874515983910000\"",
+   "id": "davs2qcuril9v7t66h5o5c19as",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZGF2czJxY3VyaWw5djd0NjZoNW81YzE5YXMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T22:07:43.000Z",
+   "updated": "2015-07-18T22:19:51.955Z",
+   "summary": "Challenge: Node Calendar",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-22T14:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-22T20:00:00-07:00"
+   },
+   "iCalUID": "davs2qcuril9v7t66h5o5c19as@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.davs2qcuril9v7t66h5o5c19as"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874516000032000\"",
+   "id": "g0ijunjvn127qsqcg825lfq3mk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZzBpanVuanZuMTI3cXNxY2c4MjVsZnEzbWsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T22:08:06.000Z",
+   "updated": "2015-07-18T22:20:00.016Z",
+   "summary": "Challenge: Node Calendar cont'd",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-23T10:05:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-23T12:30:00-07:00"
+   },
+   "iCalUID": "g0ijunjvn127qsqcg825lfq3mk@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge-cont?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.g0ijunjvn127qsqcg825lfq3mk"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874516020696000\"",
+   "id": "74jqti9ue82tpsqsi3v03ae54k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRqcXRpOXVlODJ0cHNxc2kzdjAzYWU1NGsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T22:10:45.000Z",
+   "updated": "2015-07-18T22:20:10.348Z",
+   "summary": "Challenge: Node API cont'd",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-25T10:05:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-25T12:30:00-07:00"
+   },
+   "iCalUID": "74jqti9ue82tpsqsi3v03ae54k@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge-cont?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.74jqti9ue82tpsqsi3v03ae54k"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874523507382000\"",
+   "id": "lshi2kk206hbsndm9676npinsc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bHNoaTJrazIwNmhic25kbTk2NzZucGluc2MgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T16:28:12.000Z",
+   "updated": "2015-07-18T23:22:33.691Z",
+   "summary": "Lecture: Frameworks",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-17T10:05:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-17T10:30:00-07:00"
+   },
+   "iCalUID": "lshi2kk206hbsndm9676npinsc@google.com",
+   "sequence": 2,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.lshi2kk206hbsndm9676npinsc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874523520700000\"",
+   "id": "fimtcd7jh7gnsicjcjntq6khvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZmltdGNkN2poN2duc2ljamNqbnRxNmtodmMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-16T17:02:06.000Z",
+   "updated": "2015-07-18T23:22:40.350Z",
+   "summary": "Lecture: React",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-17T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-17T14:00:00-07:00"
+   },
+   "iCalUID": "fimtcd7jh7gnsicjcjntq6khvc@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.fimtcd7jh7gnsicjcjntq6khvc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874523645928000\"",
+   "id": "1l81hiavq9vbq2u1agfte6h138_20150727T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWw4MWhpYXZxOXZicTJ1MWFnZnRlNmgxMzhfMjAxNTA3MjdUMTcwMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-15T17:41:41.000Z",
+   "updated": "2015-07-18T23:23:42.964Z",
+   "summary": "Lecture: Angular",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-27T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-27T10:20:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurringEventId": "1l81hiavq9vbq2u1agfte6h138",
+   "originalStartTime": {
+    "dateTime": "2015-07-27T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "1l81hiavq9vbq2u1agfte6h138@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1l81hiavq9vbq2u1agfte6h138"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874523718864000\"",
+   "id": "pkrhgghqj7a1ri9nn2omnrg6bg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGtyaGdnaHFqN2Excmk5bm4yb21ucmc2YmcgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:24:19.000Z",
+   "updated": "2015-07-18T23:24:19.432Z",
+   "summary": "Lecture: Angular",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-27T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-27T14:00:00-07:00"
+   },
+   "iCalUID": "pkrhgghqj7a1ri9nn2omnrg6bg@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture-angular?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.pkrhgghqj7a1ri9nn2omnrg6bg"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874523771098000\"",
+   "id": "8g24vrjtkiv67pogeu2jskf6lc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OGcyNHZyanRraXY2N3BvZ2V1Mmpza2Y2bGMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:24:45.000Z",
+   "updated": "2015-07-18T23:24:45.549Z",
+   "summary": "Skill Builder: Angular Intro",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-27T10:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-27T12:30:00-07:00"
+   },
+   "iCalUID": "8g24vrjtkiv67pogeu2jskf6lc@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/skill-builder?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.8g24vrjtkiv67pogeu2jskf6lc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874523841782000\"",
+   "id": "5misusamrv484crljdjqo8fplo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW1pc3VzYW1ydjQ4NGNybGpkanFvOGZwbG8gcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:25:07.000Z",
+   "updated": "2015-07-18T23:25:20.891Z",
+   "summary": "Challenge: Angular API Docs",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-27T14:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-27T20:00:00-07:00"
+   },
+   "iCalUID": "5misusamrv484crljdjqo8fplo@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.5misusamrv484crljdjqo8fplo"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874523922066000\"",
+   "id": "0ditfe0mrjipu5vgl39r8v8fd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MGRpdGZlMG1yamlwdTV2Z2wzOXI4djhmZDQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:26:01.000Z",
+   "updated": "2015-07-18T23:26:01.033Z",
+   "summary": "Lecture: Angular",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-28T12:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-28T12:30:00-07:00"
+   },
+   "iCalUID": "0ditfe0mrjipu5vgl39r8v8fd4@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture-angular?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0ditfe0mrjipu5vgl39r8v8fd4"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874523954960000\"",
+   "id": "uvgc1rhcaom682rbddcn6igh2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dXZnYzFyaGNhb202ODJyYmRkY242aWdoMmMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:26:11.000Z",
+   "updated": "2015-07-18T23:26:17.480Z",
+   "summary": "Challenge: Angular API Docs cont'd",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-28T10:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-28T12:00:00-07:00"
+   },
+   "iCalUID": "uvgc1rhcaom682rbddcn6igh2c@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.uvgc1rhcaom682rbddcn6igh2c"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524182540000\"",
+   "id": "9djkogbgljj5r8lloru95on2js",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OWRqa29nYmdsamo1cjhsbG9ydTk1b24yanNfMjAxNTA3MjlUMDIxNTAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-18T23:27:41.000Z",
+   "updated": "2015-07-18T23:28:11.270Z",
+   "summary": "Feedback",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-28T19:15:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-28T20:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;BYDAY=TU,TH"
+   ],
+   "iCalUID": "9djkogbgljj5r8lloru95on2js@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/feedback?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.9djkogbgljj5r8lloru95on2js"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524221662000\"",
+   "id": "qb1tpm6rng4sa68ckukm8018lc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cWIxdHBtNnJuZzRzYTY4Y2t1a204MDE4bGMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:28:30.000Z",
+   "updated": "2015-07-18T23:28:30.831Z",
+   "summary": "Code Review",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-28T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-28T19:15:00-07:00"
+   },
+   "iCalUID": "qb1tpm6rng4sa68ckukm8018lc@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/code-review?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.qb1tpm6rng4sa68ckukm8018lc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524271706000\"",
+   "id": "cste3m6mu3ntosfk56p8krjpm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y3N0ZTNtNm11M250b3NmazU2cDhrcmpwbTQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:28:55.000Z",
+   "updated": "2015-07-18T23:28:55.853Z",
+   "summary": "Approach Lecture",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-28T14:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-28T15:30:00-07:00"
+   },
+   "iCalUID": "cste3m6mu3ntosfk56p8krjpm4@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/approach?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.cste3m6mu3ntosfk56p8krjpm4"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524321622000\"",
+   "id": "gdc3f6usllgb04g5lb11sjhqb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Z2RjM2Y2dXNsbGdiMDRnNWxiMTFzamhxYjAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:29:20.000Z",
+   "updated": "2015-07-18T23:29:20.811Z",
+   "summary": "Challenge: Angular API Docs refactoring",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-28T15:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-28T17:30:00-07:00"
+   },
+   "iCalUID": "gdc3f6usllgb04g5lb11sjhqb0@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.gdc3f6usllgb04g5lb11sjhqb0"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524435426000\"",
+   "id": "1l81hiavq9vbq2u1agfte6h138_20150729T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWw4MWhpYXZxOXZicTJ1MWFnZnRlNmgxMzhfMjAxNTA3MjlUMTcwMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-15T17:41:41.000Z",
+   "updated": "2015-07-18T23:30:17.713Z",
+   "summary": "Lecture: Authentication",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-29T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-29T10:20:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurringEventId": "1l81hiavq9vbq2u1agfte6h138",
+   "originalStartTime": {
+    "dateTime": "2015-07-29T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "1l81hiavq9vbq2u1agfte6h138@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1l81hiavq9vbq2u1agfte6h138"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524456120000\"",
+   "id": "8djaqrh4vogba6voq0b7a9mjuk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=OGRqYXFyaDR2b2diYTZ2b3EwYjdhOW1qdWsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:30:28.000Z",
+   "updated": "2015-07-18T23:30:28.060Z",
+   "summary": "Lecture: Authentication",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-29T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-29T14:00:00-07:00"
+   },
+   "iCalUID": "8djaqrh4vogba6voq0b7a9mjuk@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.8djaqrh4vogba6voq0b7a9mjuk"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524488256000\"",
+   "id": "0tokq8vtipvivdan33rkaa1f0k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHRva3E4dnRpcHZpdmRhbjMzcmthYTFmMGsgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:30:44.000Z",
+   "updated": "2015-07-18T23:30:44.128Z",
+   "summary": "Skills Builder: Authentication",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-29T10:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-29T12:30:00-07:00"
+   },
+   "iCalUID": "0tokq8vtipvivdan33rkaa1f0k@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/skills-builder?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0tokq8vtipvivdan33rkaa1f0k"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524521930000\"",
+   "id": "cjs3qqvd5iqkt1s66lbm3j6n38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2pzM3FxdmQ1aXFrdDFzNjZsYm0zajZuMzggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:31:00.000Z",
+   "updated": "2015-07-18T23:31:00.965Z",
+   "summary": "Challenge: Authentication",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-29T14:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-29T20:00:00-07:00"
+   },
+   "iCalUID": "cjs3qqvd5iqkt1s66lbm3j6n38@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.cjs3qqvd5iqkt1s66lbm3j6n38"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524559632000\"",
+   "id": "3u98pf3mjhsfplpgbq6lk9sd38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M3U5OHBmM21qaHNmcGxwZ2JxNmxrOXNkMzggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:31:14.000Z",
+   "updated": "2015-07-18T23:31:19.816Z",
+   "summary": "Challenge: Authentication cont'd",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-30T10:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-30T12:30:00-07:00"
+   },
+   "iCalUID": "3u98pf3mjhsfplpgbq6lk9sd38@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.3u98pf3mjhsfplpgbq6lk9sd38"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524576896000\"",
+   "id": "c5pnsd0m8mfgtcfv5m3ells62s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzVwbnNkMG04bWZndGNmdjVtM2VsbHM2MnMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:31:28.000Z",
+   "updated": "2015-07-18T23:31:28.448Z",
+   "summary": "Approach Lecture",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-30T15:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-30T16:30:00-07:00"
+   },
+   "iCalUID": "c5pnsd0m8mfgtcfv5m3ells62s@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/approach?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.c5pnsd0m8mfgtcfv5m3ells62s"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524606394000\"",
+   "id": "ht5tha31a3msg1c2sahsnhjn84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aHQ1dGhhMzFhM21zZzFjMnNhaHNuaGpuODQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:31:43.000Z",
+   "updated": "2015-07-18T23:31:43.197Z",
+   "summary": "Challenge: Aunthetication refactoring",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-30T16:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-30T17:30:00-07:00"
+   },
+   "iCalUID": "ht5tha31a3msg1c2sahsnhjn84@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.ht5tha31a3msg1c2sahsnhjn84"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524643534000\"",
+   "id": "rnetd89nv3ea9ijepdje3usm8s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cm5ldGQ4OW52M2VhOWlqZXBkamUzdXNtOHMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:32:01.000Z",
+   "updated": "2015-07-18T23:32:01.767Z",
+   "summary": "Code Review",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-30T18:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-30T19:15:00-07:00"
+   },
+   "iCalUID": "rnetd89nv3ea9ijepdje3usm8s@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/code-review?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.rnetd89nv3ea9ijepdje3usm8s"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524702736000\"",
+   "id": "1l81hiavq9vbq2u1agfte6h138_20150731T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWw4MWhpYXZxOXZicTJ1MWFnZnRlNmgxMzhfMjAxNTA3MzFUMTcwMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-15T17:41:41.000Z",
+   "updated": "2015-07-18T23:32:31.368Z",
+   "summary": "Lecture: Databases",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-31T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-31T10:20:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurringEventId": "1l81hiavq9vbq2u1agfte6h138",
+   "originalStartTime": {
+    "dateTime": "2015-07-31T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "1l81hiavq9vbq2u1agfte6h138@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1l81hiavq9vbq2u1agfte6h138"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524737288000\"",
+   "id": "t31cfu9hm9np5s7ftlluj9evq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dDMxY2Z1OWhtOW5wNXM3ZnRsbHVqOWV2cTggcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:32:48.000Z",
+   "updated": "2015-07-18T23:32:48.644Z",
+   "summary": "Skill Builder: Databases",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-31T10:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-31T12:30:00-07:00"
+   },
+   "iCalUID": "t31cfu9hm9np5s7ftlluj9evq8@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/skill-builder?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.t31cfu9hm9np5s7ftlluj9evq8"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524759272000\"",
+   "id": "repjuk68us56t6mbg3hl19g5a4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cmVwanVrNjh1czU2dDZtYmczaGwxOWc1YTQgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:32:59.000Z",
+   "updated": "2015-07-18T23:32:59.636Z",
+   "summary": "Lecture: Databases",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-31T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-31T14:00:00-07:00"
+   },
+   "iCalUID": "repjuk68us56t6mbg3hl19g5a4@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.repjuk68us56t6mbg3hl19g5a4"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524791020000\"",
+   "id": "rt4rafpg2kdr09eqaek7npj9uc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cnQ0cmFmcGcya2RyMDllcWFlazducGo5dWMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:33:15.000Z",
+   "updated": "2015-07-18T23:33:15.510Z",
+   "summary": "Challenge: Databases",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-31T14:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-31T20:00:00-07:00"
+   },
+   "iCalUID": "rt4rafpg2kdr09eqaek7npj9uc@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.rt4rafpg2kdr09eqaek7npj9uc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874524857560000\"",
+   "id": "jtk1cbqqs3it1ccd0t9v808ia0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=anRrMWNicXFzM2l0MWNjZDB0OXY4MDhpYTAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:33:48.000Z",
+   "updated": "2015-07-18T23:33:48.780Z",
+   "summary": "Challenge: Databases cont'd",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-01T10:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-08-01T12:30:00-07:00"
+   },
+   "iCalUID": "jtk1cbqqs3it1ccd0t9v808ia0@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/challenge?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.jtk1cbqqs3it1ccd0t9v808ia0"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874525029198000\"",
+   "id": "1l81hiavq9vbq2u1agfte6h138_20150805T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWw4MWhpYXZxOXZicTJ1MWFnZnRlNmgxMzhfMjAxNTA4MDVUMTcwMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-15T17:41:41.000Z",
+   "updated": "2015-07-18T23:35:14.599Z",
+   "summary": "Lecture: Mobile",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-05T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-08-05T10:20:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurringEventId": "1l81hiavq9vbq2u1agfte6h138",
+   "originalStartTime": {
+    "dateTime": "2015-08-05T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "1l81hiavq9vbq2u1agfte6h138@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1l81hiavq9vbq2u1agfte6h138"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874525048594000\"",
+   "id": "5md8akq660kancuo1btfdb6850",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NW1kOGFrcTY2MGthbmN1bzFidGZkYjY4NTAgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T23:35:24.000Z",
+   "updated": "2015-07-18T23:35:24.297Z",
+   "summary": "Lecture: Mobile",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-05T13:30:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-08-05T14:00:00-07:00"
+   },
+   "iCalUID": "5md8akq660kancuo1btfdb6850@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture-mobile?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.5md8akq660kancuo1btfdb6850"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874535757308000\"",
+   "id": "1l81hiavq9vbq2u1agfte6h138_20150803T170000Z",
+   "status": "cancelled",
+   "recurringEventId": "1l81hiavq9vbq2u1agfte6h138",
+   "originalStartTime": {
+    "dateTime": "2015-08-03T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874814934168000\"",
+   "id": "1l81hiavq9vbq2u1agfte6h138_20150720T170000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWw4MWhpYXZxOXZicTJ1MWFnZnRlNmgxMzhfMjAxNTA3MjBUMTcwMDAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-15T17:41:41.000Z",
+   "updated": "2015-07-20T15:51:07.084Z",
+   "summary": "Lecture: Git",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-20T10:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-20T11:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurringEventId": "1l81hiavq9vbq2u1agfte6h138",
+   "originalStartTime": {
+    "dateTime": "2015-07-20T10:00:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "1l81hiavq9vbq2u1agfte6h138@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/lecture?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1l81hiavq9vbq2u1agfte6h138"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874814959394000\"",
+   "id": "rb101promsr96i8tmmuu0e28cc_20150720T160500Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cmIxMDFwcm9tc3I5Nmk4dG1tdXUwZTI4Y2NfMjAxNTA3MjBUMTYwNTAwWiBwZTEzczI2cnZmNGZ1ZDQ3bDA4dGk3NTBpMEBn",
+   "created": "2015-07-15T15:53:14.000Z",
+   "updated": "2015-07-20T15:51:19.697Z",
+   "summary": "Assessment: React + AJAX",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-20T09:05:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2015-07-20T10:30:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "recurringEventId": "rb101promsr96i8tmmuu0e28cc",
+   "originalStartTime": {
+    "dateTime": "2015-07-20T09:05:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "rb101promsr96i8tmmuu0e28cc@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/hack-hour?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.rb101promsr96i8tmmuu0e28cc"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874814980100000\"",
+   "id": "06deli7knq9dj1u79u5pcq96hs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDZkZWxpN2tucTlkajF1Nzl1NXBjcTk2aHMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-18T16:27:05.000Z",
+   "updated": "2015-07-20T15:51:30.050Z",
+   "summary": "Refresher",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-20T11:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-20T20:00:00-07:00"
+   },
+   "iCalUID": "06deli7knq9dj1u79u5pcq96hs@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/refresher?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.06deli7knq9dj1u79u5pcq96hs"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874860929760000\"",
+   "id": "lnf773n0hdimpb4faivkmo524s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bG5mNzczbjBoZGltcGI0ZmFpdmttbzUyNHMgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-17T16:25:27.000Z",
+   "updated": "2015-07-20T22:14:24.880Z",
+   "summary": "Using the Terminal: Travis",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-22T20:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-22T20:30:00-07:00"
+   },
+   "iCalUID": "lnf773n0hdimpb4faivkmo524s@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/using-git?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.lnf773n0hdimpb4faivkmo524s"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2874860943298000\"",
+   "id": "ssbd5mkn600j138c0mae1r405g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=c3NiZDVta242MDBqMTM4YzBtYWUxcjQwNWcgcGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZw",
+   "created": "2015-07-17T03:27:49.000Z",
+   "updated": "2015-07-20T22:14:31.649Z",
+   "summary": "Windows Command Line Talk: Victoria",
+   "creator": {
+    "email": "blossom872@g.ucla.edu",
+    "displayName": "Victoria Leon"
+   },
+   "organizer": {
+    "email": "pe13s26rvf4fud47l08ti750i0@group.calendar.google.com",
+    "displayName": "Codesmith-2",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-07-21T20:00:00-07:00"
+   },
+   "end": {
+    "dateTime": "2015-07-21T20:30:00-07:00"
+   },
+   "iCalUID": "ssbd5mkn600j138c0mae1r405g@google.com",
+   "sequence": 1,
+   "hangoutLink": "https://plus.google.com/hangouts/_/g.ucla.edu/windows-command?hceid=cGUxM3MyNnJ2ZjRmdWQ0N2wwOHRpNzUwaTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.ssbd5mkn600j138c0mae1r405g"
+  }
+ ]
+}
